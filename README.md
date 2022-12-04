@@ -1,6 +1,6 @@
 # SheStays
 
-SheStays is a female-only accomodation finder.
+SheStays is a female-only accomodation finder web-portal.
 
 ## Contents
 
